@@ -5,4 +5,4 @@ whose player dice numeber is more that player is won and if same then draw .
 2. whenever you referesh the page the dice are changed.
 
 You can make fun with it .
-link :
+link : https://ravish-6.github.io/Dice-Game/
