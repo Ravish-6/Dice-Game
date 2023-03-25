@@ -1,0 +1,26 @@
+.container
+{
+    text-align: center;
+    
+    font-family: 'Kalam', cursive;
+}
+.heading
+{
+    font-size: 4rem;
+    text-shadow:  1px 6px black;
+    color: cornflowerblue;
+    margin: 30px auto 9rem;
+}
+.bdy
+{
+    background-color: #06283D;
+}
+p
+{
+    color: white;
+    font-size: 2rem;
+}
+img
+{
+    width: 30%;
+}
